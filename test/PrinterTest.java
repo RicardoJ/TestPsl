@@ -54,11 +54,7 @@ public class PrinterTest {
         boolean actual = handler.isNumeric(stringOfWord);
         assertEquals(expected, actual);
     }
-    @Test
-    public void testprocess(){
-        Handler h = new Handler();
-        
-    }
+   
 
   
 }
